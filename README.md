@@ -47,6 +47,7 @@ A Neural Network was used to address the first question, and K-Means Clustering 
 
 - [Code Notebook](final.ipynb) — full analysis, code, and visualizations
 - [Final Project Report.pdf](github_heardiseaseproject.pdf) — written project summary and methodology
+- [Data Set](heart_disease_uci.csv) - dataset used for project
 
 ## Author
 
